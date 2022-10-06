@@ -1,0 +1,39 @@
+body{
+ 
+  background-image: url("https://cdn.wallpapersafari.com/21/25/xK1C0G.jpg ");
+  color:#fff;
+background-repeat: no-repeat;
+background-size: cover;
+  }
+  h1{color:#ffff;
+  text-align: center;
+  border: color #ffce4e;;
+  border-style:outset;
+  border-width: 20px;
+}
+ h3{color: rgb(231, 234, 244)
+  ; border: #3e072a;
+  border-style: outset;
+  background-color: black;
+  text-align: center;
+
+     }
+     div { border: #fff;
+      border-style: outset; 
+      border-width: 10px;
+      border-radius: 40px
+         }
+         p{ border: rgb(124, 11, 199);
+          border-style:outset;
+          border-width: 4px;
+          border-radius: 5px;}
+          nav{ border: black;
+          border-style:double ;
+        border-width: 4px;
+      border-radius: 4px;
+    text-align: start;}
+
+
+    
+ 
+ 
